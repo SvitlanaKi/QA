@@ -1,0 +1,78 @@
+{
+  "people": {
+    "person": [
+      {
+        "name": "Ivan",
+        "city": "Kiev",
+        "adress": [
+          {
+            "street": "Petrenka",
+            "house": 7,
+            "apartment": 9
+          }
+        ],
+        "contacts": [
+          {
+            "phone": "0999237373",
+            "mail": "ivan222@gmail.com",
+            "skype": "https://join.skype.com/invite/lDjKfolZ"
+          }
+        ]
+      },
+      {
+        "name": "Vira",
+        "city": "Kharkiv",
+        "adress": [
+          {
+            "street": "Bogomolsha",
+            "house": 23,
+            "apartment": 11
+          }
+        ],
+        "contacts": [
+          {
+            "phone": "0986756123",
+            "mail": "virus562@gmail.com",
+            "skype": "https://join.skype.com/invite/JHHHCGJjKfolZ"
+          }
+        ]
+      },
+      {
+        "name": "Andrii",
+        "city": "Lviv",
+        "adress": [
+          {
+            "street": "Gorodok",
+            "house": 98,
+            "apartment": 27
+          }
+        ],
+        "contacts": [
+          {
+            "phone": "0934567890",
+            "mail": "andretan7474@gmail.com",
+            "skype": "https://join.skype.com/invite/lDjKfolUIYGhjhgZ"
+          }
+        ]
+      },
+      {
+        "name": "Marta",
+        "city": "Poltava",
+        "adress": [
+          {
+            "street": "Vilnosh",
+            "house": 10,
+            "apartment": 4
+          }
+        ],
+        "contacts": [
+          {
+            "phone": "0973678456",
+            "mail": "mattos982@gmail.com",
+            "skype": "https://join.skype.com/invite/lDjKGHkBKfolZ"
+          }
+        ]
+      }
+    ]
+  }
+}

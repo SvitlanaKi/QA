@@ -1,0 +1,62 @@
+<people>
+<person>
+<id>1</id>
+<name>Ivan</name>
+<city>Kiev</city>
+<adress>
+<street>Petrenka</street>
+<house>7</house>
+ <apartment>9</apartment>
+ </adress>
+<contacts>
+<phone>0999237373</phone>
+<mail>ivan222@gmail.com</mail>
+<skype>https://join.skype.com/invite/lDjKfolZ</skype> 
+</contacts>
+</person>
+<person>
+<id>1</id>
+<name>Vira</name>
+<city>Kharkiv</city>
+<adress>
+<street>Bogomolsha</street>
+<house>23</house>
+ <apartment>11</apartment>
+ </adress>
+<contacts>
+<phone>0986756123</phone>
+<mail>virus562@gmail.com</mail>
+<skype>https://join.skype.com/invite/JHHHCGJjKfolZ</skype> 
+</contacts>
+</person>
+<person>
+<id>1</id>
+<name>Andrii</name>
+<city>Lviv</city>
+<adress>
+<street>Gorodok</street>
+<house>98</house>
+ <apartment>27</apartment>
+ </adress>
+<contacts>
+<phone>0934567890</phone>
+<mail>andretan7474@gmail.com</mail>
+<skype>https://join.skype.com/invite/lDjKfolUIYGhjhgZ</skype> 
+</contacts>
+</person>
+<person>
+<id>1</id>
+<name>Marta</name>
+<city>Poltava</city>
+<adress>
+<street>Vilnosh</street>
+<house>10</house>
+ <apartment>4</apartment>
+ </adress>
+<contacts>
+<phone>0973678456</phone>
+<mail>mattos982@gmail.com</mail>
+<skype>https://join.skype.com/invite/lDjKGHkBKfolZ</skype> 
+</contacts>
+</person>
+</people>
